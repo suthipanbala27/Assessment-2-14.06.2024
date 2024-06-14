@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_I agree to receive information by sig_839872</name>
+   <tag></tag>
+   <elementGuidId>d00d9678-d43f-4d46-bf7a-4299e553aaf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='registerForm']/div[2]/div[11]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;I agree to receive information by signing up on Kalasalingam Academy of Research&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2c4bbd12-ea78-40c0-94d0-706a97b67cf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I agree to receive information by signing up on Kalasalingam Academy of Research and Education *                                </value>
+      <webElementGuid>52cc7dde-bf04-4a64-b1aa-332819353e91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registerForm&quot;)/div[@class=&quot;form-custom&quot;]/div[@class=&quot;form-group agree-group col-md-12 m0&quot;]/div[@class=&quot;checkbox&quot;]/label[1]</value>
+      <webElementGuid>f33b1c3b-59b8-46c7-9457-4a9dfe152823</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerForm']/div[2]/div[11]/div/label</value>
+      <webElementGuid>982d03d6-af7f-4a72-bdf0-63b020be4ffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/following::label[1]</value>
+      <webElementGuid>d1328b18-6963-492c-a136-e4a2fa6e20cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[2]/preceding::label[1]</value>
+      <webElementGuid>9cc151a0-15d8-43c3-97c3-27c61af1f835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>ee569041-8072-4a4b-9a19-b780fb6140aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'I agree to receive information by signing up on Kalasalingam Academy of Research and Education *                                ' or . = 'I agree to receive information by signing up on Kalasalingam Academy of Research and Education *                                ')]</value>
+      <webElementGuid>b66207b9-a522-4e27-9af5-e1ba42687960</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

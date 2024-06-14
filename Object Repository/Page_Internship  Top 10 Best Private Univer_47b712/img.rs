@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>dce0b740-5fb4-4b50-8430-33f3e9069dc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[10]/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(10) > .item > div > img >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4967d32e-ae95-497c-a29c-d9927c48f9b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/wp-content/uploads/2021/04/keyfeaturelogo2.png</value>
+      <webElementGuid>da86a6bf-607a-4299-9f09-954de28cef47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wsmenucontainer&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;sectiontab programmesoffer versfaq recruiterssec intershipcars&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;keyrecruiters owl-carousel owl-theme owl-loaded owl-drag&quot;]/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;logoboxwrap&quot;]/img[1]</value>
+      <webElementGuid>f3b7ee65-a795-4390-8526-07e5c708cc32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/img</value>
+      <webElementGuid>fa17ab4c-fa34-48d3-a8e0-a5226c6fbcfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/wp-content/uploads/2021/04/keyfeaturelogo2.png']</value>
+      <webElementGuid>fb231b8c-59cb-4c01-8111-6690f4e8a011</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Internships</name>
+   <tag></tag>
+   <elementGuidId>1dc72d21-b8bd-4457-83d9-3af0e37421ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Internships')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(7) > ul.row.sub-menu.twocolum > div.innermenuitem > div.row > div.col-sm-3 > ul > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Internships&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c443b161-5c7c-4ca4-a60a-d0b2b2d565a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://kalasalingam.ac.in/internship</value>
+      <webElementGuid>9c386ea6-ae7f-4397-a97c-69704d5ac944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Internships</value>
+      <webElementGuid>8f4c33bb-f349-46ac-9016-f43287319583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wsmenucontainer&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;middlediv wsmenucontainer clearfix&quot;]/div[@class=&quot;header sticky stick-me not-sticking&quot;]/div[@class=&quot;largecontainer&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-9 navigation text-right&quot;]/nav[@class=&quot;wsmenu clearfix&quot;]/ul[@class=&quot;wsmenu-list&quot;]/li[7]/ul[@class=&quot;row sub-menu twocolum&quot;]/div[@class=&quot;innermenuitem&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3&quot;]/ul[1]/li[3]/a[1]</value>
+      <webElementGuid>4245a9c6-1761-4a80-9d33-fa5387107846</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Internships')]</value>
+      <webElementGuid>93fbbf61-7072-468b-9a2a-11f47490e5e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dream offer'])[1]/following::a[1]</value>
+      <webElementGuid>3a1d4683-62db-4208-9bcb-fa7300569446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[7]/following::a[2]</value>
+      <webElementGuid>f3ef3658-e368-4692-923b-0976ac561040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Statistics'])[1]/preceding::a[1]</value>
+      <webElementGuid>1bb0e21a-14a5-4ea4-9382-fb8f35a5cd75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Career Guidance'])[1]/preceding::a[2]</value>
+      <webElementGuid>d64630d9-da6e-478b-b030-60163884d092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Internships']/parent::*</value>
+      <webElementGuid>5bd7853d-3d79-428e-9c1b-85b048f3462a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://kalasalingam.ac.in/internship')]</value>
+      <webElementGuid>9c694e24-d5a1-4fa1-a04b-366efaead8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/ul/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>4813e39d-e7f3-481e-8be0-3991f8fff43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://kalasalingam.ac.in/internship' and (text() = 'Internships' or . = 'Internships')]</value>
+      <webElementGuid>2c5b09e9-8668-418f-87cf-982e9fb73c3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

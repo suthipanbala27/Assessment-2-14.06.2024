@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2</name>
+   <tag></tag>
+   <elementGuidId>2ba21d00-538c-4371-85a1-aa04f92b1e91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/div/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(6) > .item > .col-sm-4 > .imgbox > .imgshade > img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4d7c10ac-2611-4174-8ab1-f27fdedcae0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/wp-content/uploads/2021/12/Facilty-3.jpg</value>
+      <webElementGuid>07a7ef27-c087-4e41-b485-97d76f3d96ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wsmenucontainer&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;sectiontab leadership leaderver bluedarkbg intershipwht&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;collagefac owl-carousel owl-theme owl-loaded owl-drag&quot;]/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;imgbox&quot;]/div[@class=&quot;imgshade&quot;]/img[1]</value>
+      <webElementGuid>49998562-2e1c-4909-88b0-67e3110764c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/img</value>
+      <webElementGuid>002a4d46-ed83-488f-a82c-490655c32f6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/wp-content/uploads/2021/12/Facilty-3.jpg']</value>
+      <webElementGuid>6bc12f44-8d89-4842-a106-cbd524e1fbc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

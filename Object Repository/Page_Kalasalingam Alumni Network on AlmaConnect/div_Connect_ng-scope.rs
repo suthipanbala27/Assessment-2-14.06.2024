@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Connect_ng-scope</name>
+   <tag></tag>
+   <elementGuidId>47238712-ddeb-4ad0-be57-565fb1699fff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='filter-page']/body/div[3]/div[2]/div/div/div/div[2]/div/div/div[7]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(7) > div:nth-child(2)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6aefb2b6-b678-4e51-9c2b-95fa83e4de08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>aa7025bd-b347-4b89-9c3f-f4f1f34f6ca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filter-page&quot;)/body[@class=&quot;body&quot;]/div[3]/div[@class=&quot;page_layout&quot;]/div[@class=&quot;main_column&quot;]/div[@class=&quot;js_directory_filter ng-scope&quot;]/div[1]/div[@class=&quot;inner_main_column&quot;]/div[@class=&quot;js_dir_users_list inner_sec_column_copy_sibling ng-scope&quot;]/div[@class=&quot;box-shadow-content&quot;]/div[@class=&quot;moving_loader_box ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>8c2e9fc3-eaaa-4ea9-bfad-1a146f946c11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='filter-page']/body/div[3]/div[2]/div/div/div/div[2]/div/div/div[7]/div[2]</value>
+      <webElementGuid>3ffb8caa-820b-4bca-a962-c9a07d0ecad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect'])[40]/following::div[7]</value>
+      <webElementGuid>2636e1cb-3d9b-462c-9f85-7180bd0bb87c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student at Kalasalingam Deemed University'])[1]/following::div[12]</value>
+      <webElementGuid>cf8e8ba8-11f9-453d-b9b9-38fd907606c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feedback'])[1]/preceding::div[4]</value>
+      <webElementGuid>7da8ccf4-ec31-4342-be6e-8904495e7270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]</value>
+      <webElementGuid>cd6676ea-6dc9-4e58-893f-a9823252721a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

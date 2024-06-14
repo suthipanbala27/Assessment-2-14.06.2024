@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tel. 04563 289042_hamb-bottom</name>
+   <tag></tag>
+   <elementGuidId>85d74bf3-fc96-480a-905b-858bea630b47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.hamb-bottom</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6828165d-06d9-43f9-9d10-ed55621c5d18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hamb-bottom</value>
+      <webElementGuid>1cb6e8ab-3ca3-457f-8dec-af6495425c82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wsmenucontainer&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;topheader&quot;]/div[@class=&quot;largecontainer&quot;]/div[@class=&quot;row&quot;]/button[@class=&quot;hamburger animated fadeInLeft is-closed&quot;]/span[@class=&quot;hamb-bottom&quot;]</value>
+      <webElementGuid>f3765c02-8957-4d01-9058-d466de745cc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]</value>
+      <webElementGuid>e207ccbd-50a4-4e84-bc02-98b527639426</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

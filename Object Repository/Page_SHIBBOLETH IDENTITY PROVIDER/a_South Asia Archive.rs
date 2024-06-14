@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_South Asia Archive</name>
+   <tag></tag>
+   <elementGuidId>34c2e1ab-484f-44de-90e7-8d1210288b94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='res']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.list-group-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;South Asia Archive&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3bd533db-cd0c-45c7-9f6f-0c51c5a80f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://southasiacommons.net/start-session?entityID=https%3A%2F%2Fidp.kalasalingam.ac.in%2Fidp%2Fshibboleth</value>
+      <webElementGuid>e00f0d9b-9839-478b-be9c-a7796d15288d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>03524e8c-c13c-4f38-84f6-db6d13459ab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>7464f9cb-f8a5-4820-93b3-42e05f961774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>South Asia Archive</value>
+      <webElementGuid>547c7a35-130a-4c19-8737-975e64f8733c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;res&quot;)/div[@class=&quot;content&quot;]/a[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>58aac160-e62d-4bd9-aac0-477aa3181a10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='res']/div/a</value>
+      <webElementGuid>b0ad8f84-df03-4ea5-b443-4b46cda1acc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'South Asia Archive')]</value>
+      <webElementGuid>beb71c4f-200b-4575-90fd-dd36b4bd0033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E - DATABASES'])[1]/following::a[1]</value>
+      <webElementGuid>30c45eff-ae21-4fb1-b20b-5339f3c38ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E- RESOURCES'])[1]/following::a[1]</value>
+      <webElementGuid>b851ab41-6f02-4eb4-8456-195bb7782368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E - JOURNALS'])[1]/preceding::a[1]</value>
+      <webElementGuid>e9632f72-af51-4b39-a367-a8ae926e4a20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IEEE'])[1]/preceding::a[1]</value>
+      <webElementGuid>eb69ddf0-cae5-4ee2-b52d-869b7fb3e87f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='South Asia Archive']/parent::*</value>
+      <webElementGuid>768f02e1-fcbc-4331-9b39-d1cdd97fc888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://southasiacommons.net/start-session?entityID=https%3A%2F%2Fidp.kalasalingam.ac.in%2Fidp%2Fshibboleth')]</value>
+      <webElementGuid>e7b1335c-0247-48d7-abed-3ac83bf19451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/a</value>
+      <webElementGuid>f16b6233-335a-43d1-ab2a-d14f67d61da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://southasiacommons.net/start-session?entityID=https%3A%2F%2Fidp.kalasalingam.ac.in%2Fidp%2Fshibboleth' and (text() = 'South Asia Archive' or . = 'South Asia Archive')]</value>
+      <webElementGuid>a905dc4b-3ebd-4992-8794-e1c34ab6cc57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Course_checkbox</name>
+   <tag></tag>
+   <elementGuidId>8bf38dd9-9ae0-40f5-b6ea-c2415ed6a760</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='filter-page']/body/div[3]/div[2]/div/div/div/div[2]/div/div/div[4]/div/div/div/div/div[2]/div/div[2]/div/div/div/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;All Course&quot;i >> div >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c4452cc4-7a3f-4293-8e0e-fe1d324721e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>3b45f94c-71ac-49ee-870e-2f005547628f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filter-page&quot;)/body[@class=&quot;body&quot;]/div[3]/div[@class=&quot;page_layout&quot;]/div[@class=&quot;main_column&quot;]/div[@class=&quot;js_directory_filter ng-scope&quot;]/div[1]/div[@class=&quot;inner_main_column&quot;]/div[@class=&quot;js_dir_users_list inner_sec_column_copy_sibling ng-scope&quot;]/div[@class=&quot;box-shadow-content&quot;]/div[@class=&quot;ng-scope&quot;]/div[1]/div[1]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ac_dropdown ng-scope&quot;]/div[2]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ac_input_checkbox&quot;]/label[1]/div[@class=&quot;checkbox&quot;]</value>
+      <webElementGuid>71746d82-5560-42c9-ab9f-6a4eca40b804</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='filter-page']/body/div[3]/div[2]/div/div/div/div[2]/div/div/div[4]/div/div/div/div/div[2]/div/div[2]/div/div/div/label/div</value>
+      <webElementGuid>178ede12-65b5-448e-a9be-a16918201f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course'])[1]/following::div[9]</value>
+      <webElementGuid>be31c5d3-0481-4414-a1e1-037ff96379c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kalasalingamites'])[1]/following::div[16]</value>
+      <webElementGuid>36d7e9f7-52fe-423e-8a45-5b9842a67d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Course'])[1]/preceding::div[2]</value>
+      <webElementGuid>5f1d0ef5-f24c-4731-bfed-393756fc8b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B.A. (0)'])[1]/preceding::div[7]</value>
+      <webElementGuid>2b1aff2b-c22d-4255-a2af-86323d234d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>3b83446a-223b-4914-ba62-9e121ceaadc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

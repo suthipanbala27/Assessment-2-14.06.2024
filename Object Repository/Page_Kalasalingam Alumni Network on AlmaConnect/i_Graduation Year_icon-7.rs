@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Graduation Year_icon-7</name>
+   <tag></tag>
+   <elementGuidId>8dd5014e-ea57-4c5c-83c1-60d18c03f7c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='filter-page']/body/div[3]/div[2]/div/div/div/div[2]/div/div/div[4]/div/div/div[2]/div/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>82a98565-cf06-4132-a55a-905ea6a64e23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-7</value>
+      <webElementGuid>49e2676f-8b1c-4074-b159-be2d592a7ad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filter-page&quot;)/body[@class=&quot;body&quot;]/div[3]/div[@class=&quot;page_layout&quot;]/div[@class=&quot;main_column&quot;]/div[@class=&quot;js_directory_filter ng-scope&quot;]/div[1]/div[@class=&quot;inner_main_column&quot;]/div[@class=&quot;js_dir_users_list inner_sec_column_copy_sibling ng-scope&quot;]/div[@class=&quot;box-shadow-content&quot;]/div[@class=&quot;ng-scope&quot;]/div[1]/div[1]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[1]/div[1]/i[@class=&quot;icon-7&quot;]</value>
+      <webElementGuid>322386eb-d4be-4343-85bc-347adde05c88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='filter-page']/body/div[3]/div[2]/div/div/div/div[2]/div/div/div[4]/div/div/div[2]/div/div/div/i</value>
+      <webElementGuid>54188d2f-78fa-4e51-a8aa-631ed92f774f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/i</value>
+      <webElementGuid>4fa4e5ea-e0a9-49a7-a70b-78edf5c4f32a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
